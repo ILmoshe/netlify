@@ -47,6 +47,7 @@
 .pageBodyLeft,
 .pageBodyRight {
   flex: 18%;
+  background-image: linear-gradient(red, yellow);
 }
 .pageBodyCenter {
   flex: 51%;
